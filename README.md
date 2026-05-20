@@ -106,7 +106,7 @@ The dataset includes FMCG field activation and sales records containing:
 
 # 🖥 Dashboard Preview
 
-![Dashboard](dashboard.png)
+[![Dashboard](dashboard.png)](https://github.com/V1dya-Gupta/Power-BI-Instore-Activation-Dashboard/blob/main/dashboard.png.png)
 
 ---
 
